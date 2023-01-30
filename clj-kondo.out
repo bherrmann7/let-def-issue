@@ -1,0 +1,2 @@
+m/my_boat.clj:11:11: error: Unresolved symbol: puma
+linting took 9ms, errors: 1, warnings: 0

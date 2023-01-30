@@ -1,0 +1,4 @@
+
+{:lint-as {my-boat/let-def clojure.core/let } }
+
+
